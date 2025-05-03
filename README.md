@@ -1,14 +1,17 @@
-# Twitter Sentiment Analysis
 
-This is a sentiment analysis app for tweets using the Cohere API and Streamlit.
+# Project Name
+This project is a Sentimental Analysis of the tweets of the user,Using Classification algorithm and Preprocessing using NLP.
 
-## Features
-- Real-time sentiment classification
-- Uses Cohere's large language model
-- Deployable with Docker and Streamlit
 
-## Run Locally
+### Methods Used
+* Feature Engineering
+* Machine Learning
+* Data Visualization
+* NLP
 
-```bash
-streamlit run app.py
+
+### Technologies 
+* Python
+
+
 
