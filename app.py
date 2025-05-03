@@ -3,7 +3,7 @@ import pickle
 import cohere
 
 # 🔹 Set your Cohere API Key directly here
-COHERE_API_KEY = "yCc47rTAt4JRcypLd81xoJ7HjaKOPtO04gOZUsXL"  # 🔴 Replace with your actual API key
+COHERE_API_KEY = ""  # 🔴 Replace with your actual API key
 
 # Validate API Key
 if not COHERE_API_KEY:
